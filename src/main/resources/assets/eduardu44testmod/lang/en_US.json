@@ -1,0 +1,13 @@
+{
+	//Items
+	"item.eduardu44testmod.test_item" : "Test Item",
+	"item.eduardu44testmod.copper_ingot" : "Copper Ingot",
+	
+	//Blocks
+	"block.eduardu44testmod.test_block" : "Test Block",
+	"block.eduardu44testmod.copper_block" : "Copper Block",
+	"block.eduardu44testmod.copper_ore" : "Copper Ore",
+	
+	//Misc
+	"itemGroup.testmod_tab" : "Eduardu44's Test Mod"
+}

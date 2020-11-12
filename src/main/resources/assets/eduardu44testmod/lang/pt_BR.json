@@ -1,0 +1,13 @@
+{
+	//Items
+	"item.eduardu44testmod.test_item" : "Item De Testes",
+	"item.eduardu44testmod.copper_ingot" : "Barra De Cobre",
+	
+	//Blocks
+	"block.eduardu44testmod.test_block" : "Bloco De Testes",
+	"block.eduardu44testmod.copper_block" : "Bloco De Cobre",
+	"block.eduardu44testmod.copper_ore" : "Min\u00E9rio de Cobre",
+	
+	//Misc
+	"itemGroup.testmod_tab" : "Mod De Testes do Eduardu44"
+}
